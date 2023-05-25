@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(145, 141, 141);
+    width: 96%;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.hero h1{
+    color: blue;
+    font-family: tahoma;
+    font-size: 5;
+    text-transform:uppercase;
+    margin: 15px;
+    padding: 10px;
+    border-top-style: solid;
+    border-top-color: black;
+    border-bottom-style:groove;
+    border-bottom-color: rgb(214, 209, 209);
+}
+
+.angel{
+    /*float: left;
+    width: 50%;      coloca as imagens coladas lado a lado*/
+    padding-bottom: 10px;
+}
+
+.footer-content p{
+    border-bottom-style:solid;
+    border-bottom-color: black;
+    clear: both;
+}
